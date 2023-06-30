@@ -23,6 +23,10 @@ Tercera trilogía:
 * Episodio 9: El ascenso de Skywalker (2019)
 
 
+
 * Luke Skywalker* acuede en ayuda de la *Princesa Leia*
 La princesa Leia
+
+
+* Luke* y *Obi-Wan* van a a la cantina y conocen a *Han Solo*
 
