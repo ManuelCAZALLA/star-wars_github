@@ -1,5 +1,9 @@
 *.log
+
 *.DS_Store
 *.sql
 *.back
 *pruebas/
+
+.sql
+
